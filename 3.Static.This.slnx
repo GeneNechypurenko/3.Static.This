@@ -6,4 +6,5 @@
   <Project Path="01.StaticMembers/01.StaticMembers.vcxproj" Id="3933e315-8c9b-46b9-b9db-8ed93528676d" />
   <Project Path="02.ThisPointer/02.ThisPointer.vcxproj" Id="113bb910-9483-47d5-b1bb-695c9424c5b5" />
   <Project Path="HomeWork23/HomeWork23.vcxproj" Id="f9b1c7e3-1668-4cb0-8794-69203f546e83" />
+  <Project Path="HW23Solution/HW23Solution.vcxproj" Id="d5d9d43c-ed92-447d-91d6-ef8194bd52bc" />
 </Solution>
